@@ -1,0 +1,32 @@
+*{
+ 	margin: 0px;
+ 	padding: 0px;
+}
+
+form{
+  border: 2px solid black;
+  width: 400px;
+  margin: 350px 0px 0px 500px;
+}
+
+form p{
+  padding: 20px 20px;
+}
+
+form textarea{
+  margin-left:  20px;
+  margin-top: -20px;
+  width: 300px;
+  height: 60px;
+}
+form button{
+  margin-left: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  box-shadow: 2px 2px black;
+  background-color: #a6bbdd;
+  color:white;
+}
+form h3{
+  text-decoration: underline;
+}
